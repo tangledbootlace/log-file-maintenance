@@ -1,0 +1,7 @@
+C:\Users\602101\Documents\TEST\IISLogFileMaintenance\IISLogFileMaintenance\bin\Debug\IISLogFileMaintenance.exe.config
+C:\Users\602101\Documents\TEST\IISLogFileMaintenance\IISLogFileMaintenance\bin\Debug\IISLogFileMaintenance.exe
+C:\Users\602101\Documents\TEST\IISLogFileMaintenance\IISLogFileMaintenance\bin\Debug\IISLogFileMaintenance.pdb
+C:\Users\602101\Documents\TEST\IISLogFileMaintenance\IISLogFileMaintenance\obj\Debug\IISLogFileMaintenance.csprojAssemblyReference.cache
+C:\Users\602101\Documents\TEST\IISLogFileMaintenance\IISLogFileMaintenance\obj\Debug\IISLogFileMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\602101\Documents\TEST\IISLogFileMaintenance\IISLogFileMaintenance\obj\Debug\IISLogFileMaintenance.exe
+C:\Users\602101\Documents\TEST\IISLogFileMaintenance\IISLogFileMaintenance\obj\Debug\IISLogFileMaintenance.pdb

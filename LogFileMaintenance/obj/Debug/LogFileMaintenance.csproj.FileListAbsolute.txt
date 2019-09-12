@@ -1,0 +1,7 @@
+C:\Users\602101\Documents\TEST\LogFileMaintenance\LogFileMaintenance\bin\Debug\LogFileMaintenance.exe.config
+C:\Users\602101\Documents\TEST\LogFileMaintenance\LogFileMaintenance\bin\Debug\LogFileMaintenance.exe
+C:\Users\602101\Documents\TEST\LogFileMaintenance\LogFileMaintenance\bin\Debug\LogFileMaintenance.pdb
+C:\Users\602101\Documents\TEST\LogFileMaintenance\LogFileMaintenance\obj\Debug\LogFileMaintenance.csprojAssemblyReference.cache
+C:\Users\602101\Documents\TEST\LogFileMaintenance\LogFileMaintenance\obj\Debug\LogFileMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\602101\Documents\TEST\LogFileMaintenance\LogFileMaintenance\obj\Debug\LogFileMaintenance.exe
+C:\Users\602101\Documents\TEST\LogFileMaintenance\LogFileMaintenance\obj\Debug\LogFileMaintenance.pdb
