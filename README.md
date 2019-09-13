@@ -4,12 +4,20 @@ log-file-maintenance is a C# Console App used to delete log files or other speci
 
 ## Usage
 
-Access App.config to edit keys/values to match the paths, file types, and retain length in days you desire. 
+Access App.config to edit/add values to Json object that match the paths, file types, and retain length in days you desire.
+
+ 
 
 ```C#
-<add key="Path1" value="..\\TestData\\Example Folder 1" /> //File path of desired folder
-<add key="FileType1" value=".log" />                       //File type of desired items to be deleted
-<add key="RetainLength1" value="15" />                     //Number of days to keep files before deletion
+<appSettings>
+    <add key="ConfigurationPaths" value="{'Configs':[ {'path':'..\\TestData\\Example Folder 1', 'fileType': '.log', 'retainLength': 15 },
+                                                    {'path':'..\\TestData\\Example Folder 2', 'fileType': '.log', 'retainLength': 10 },
+                                                    {'path':'..\\TestData\\Example Folder 3', 'fileType': '.log', 'retainLength': 7 } ]}"/>
+  </appSettings>
+  
+  //'path' = Directory containing files/subfolders
+  //'fileType' = File extension on desired files. Use '.*'  if you wish to clean up files of all types
+  //'retainLength' = Number of days to keep files before deltion
 ```
 Note: Be sure to enter keys/values for EACH of the 3 variables above.
 
