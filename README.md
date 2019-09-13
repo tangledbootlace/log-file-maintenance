@@ -2,6 +2,8 @@
 
 log-file-maintenance is a C# Console App used to delete log files or other specified file types in configured folders that are older than a specified date.
 
+Created: 9/10/2019
+
 ## Usage
 
 Access App.config to edit/add values to Json object that match the paths, file types, and retain length in days you desire.
