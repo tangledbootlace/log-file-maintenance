@@ -23,7 +23,7 @@ Access App.config to edit/add values to Json object that match the paths, file t
 ```
 Note: Be sure to enter keys/values for EACH of the 3 variables above.
 
-I will be removing the Console.ReadKey() lines to eliminate need for user input and am using this application as a scheduled task to clean up log files for a number of company websites that receive high levels of traffic.
+I will be removing the Console.ReadKey() lines to eliminate need for user input and am using this application as a scheduled task.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
